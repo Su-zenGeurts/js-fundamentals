@@ -1,12 +1,12 @@
 {
-  "name": "jsfundamentals",
+  "name": "js-fundamentals",
   "version": "1.0.0",
-  "description": "",
+  "description": "Code from the Udemy course 'Playwright: Web Automation Testing From Zero to Hero', section 2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Su-zen Geurts",
   "license": "ISC",
   "type": "module",
   "dependencies": {
